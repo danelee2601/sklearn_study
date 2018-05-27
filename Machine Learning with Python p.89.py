@@ -1,3 +1,5 @@
+# It showed the test_acc of 0.986 in comparison to that of 0.965 in the textbook on page 90.
+
 import mglearn
 import matplotlib.pyplot as plt
 from sklearn.svm import LinearSVC
